@@ -1,2 +1,4 @@
-	name: Ordinary Dads
-	markdown: kramdown
+name: Ordinary Dads
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
