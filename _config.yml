@@ -2,3 +2,6 @@ name: Ordinary Dads
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+
+# Google Analytics
+google_analytics: UA-135015486-1
