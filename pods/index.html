@@ -3,7 +3,7 @@ layout: default
 title: A Podcast for Ordinary Dads
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="pod">
+	<ul class="pods">
 
 	  {% for pod in site.pods %}
 	    <li><span>{{ pod.date | date_to_string }}</span> » <a href="{{ pod.url }}" title="{{ pod.title }}">{{ pod.title }}</a></li>
