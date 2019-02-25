@@ -5,3 +5,15 @@ permalink: /blog/:year/:month/:day/:title
 
 # Google Analytics
 google_analytics: UA-135015486-1
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
