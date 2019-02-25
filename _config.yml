@@ -17,3 +17,5 @@ defaults:
       type: category
     values:
       layout: "category"
+
+remote_theme: daattali/beautiful-jekyll
