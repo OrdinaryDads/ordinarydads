@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "An Ordinary Blog launched"
 date: 2018-02-22
 ---
