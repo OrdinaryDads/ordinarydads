@@ -1,0 +1,15 @@
+# main links
+main:
+- title: "Podcast"
+  url: /categories/podcasts/
+  description: "Ordinary Dads Podcasts"
+- title: "About"
+  url: /about/
+- title: "Blog"
+  url: /categories/blogs/
+- title: "Tags"
+  url: /tags/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

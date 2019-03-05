@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: home
 title: A Podcast for Ordinary Dads
----
-	<h1>{{ page.title }}</h1>
-	<ul class="pods">
 
-	  {% for pod in site.pods %}
-	    <li><span>{{ pod.date | date_to_string }}</span> » <a href="{{ pod.url }}" title="{{ pod.title }}">{{ pod.title }}</a></li>
+author_profile: true
+---
+
+	<ul class="posts">
+
+	  {% for post in site.pods %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
