@@ -11,7 +11,7 @@ This is our second episode
 
 Starting school, and this particular article. Maybe... Michael to prompt Dan on his thoughts on this, given J has started school recently.
 
-https://babyology.com.au/parenting/school/dear-mum-and-dad-this-is-how-i-really-feel-after-a-day-at-my-new-big-school.html
+(https://babyology.com.au/parenting/school/dear-mum-and-dad-this-is-how-i-really-feel-after-a-day-at-my-new-big-school.html "Dear Mum and Dad, this is how i feel after school")
 
 * How has he coped so far
 * Friends?
