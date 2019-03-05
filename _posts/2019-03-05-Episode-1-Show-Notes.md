@@ -34,3 +34,7 @@ I've been messing around with smartphones since the mid 2000s... and this will s
 I came back to iPhone with the iPhone 6, mainly because I had my first son and my wife was always annoyed at how slow it was for my Android phones to open up the camera...
 
 I thought I'd be stuck on iOS for a while, as I upgraded to iPhone 7, got an Apple Watch and also had a few iPads in that time.
+
+Recently, my brother switched away from iOS to the Pixel 3. And after seeing pics that he took on the phone, we were like: dang that's some good photos. So since Vodafone had a good deal on the smaller Pixel 3 we decided to go for it.
+
+Michael, how about you?
