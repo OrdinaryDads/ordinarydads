@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Episode 1 show notes re-do"
+title: "Episode 1 show plan re-do"
 date: 2019-03-05
 categories: podcast
 ---
@@ -38,3 +38,12 @@ I thought I'd be stuck on iOS for a while, as I upgraded to iPhone 7, got an App
 Recently, my brother switched away from iOS to the Pixel 3. And after seeing pics that he took on the phone, we were like: dang that's some good photos. So since Vodafone had a good deal on the smaller Pixel 3 we decided to go for it.
 
 Michael, how about you?
+
+
+
+
+What to think of:
+
+* Hit the point, then talk beyond.
+* Unlock the stories
+* Accuracy
