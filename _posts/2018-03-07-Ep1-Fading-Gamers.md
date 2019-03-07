@@ -7,7 +7,7 @@ categories: podcast
 
 The podcast has been launched! Listen below
 
-
+<img src=“/assets/images/Spotify.png”>
 
 <iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" style="width: 100%; height: 200px"></iframe>
 
@@ -15,6 +15,6 @@ The podcast has been launched! Listen below
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjU2NzQzOCwxMTMwMjE4MTE2LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0MTgzNTM0MjgsMTEzMDIxODExNiwtMj
+A4ODc0NjYxMl19
 -->
