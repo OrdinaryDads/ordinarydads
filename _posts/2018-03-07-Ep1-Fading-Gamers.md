@@ -7,7 +7,7 @@ categories: podcast
 
 The podcast has been launched! Listen below
 
-<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
+<a href=[ordinarydads.github.io](https://github.com/OrdinaryDads/ordinarydads.github.io)/[_posts](https://github.com/OrdinaryDads/ordinarydads.github.io/tree/master/_posts)/[Images](https://github.com/OrdinaryDads/ordinarydads.github.io/tree/master/_posts/Images)/**Spotify.PNG**"https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
 <img src=“/Images/Spotify.png”></a>
 
 <iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" style="width: 100%; height: 200px"></iframe>
@@ -16,6 +16,6 @@ The podcast has been launched! Listen below
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDAyNTg0NCwxNDkxNDA2ODkyLDExMz
-AyMTgxMTYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTI3OTg5MTE0OSwtMzY0MDI1ODQ0LDE0OT
+E0MDY4OTIsMTEzMDIxODExNiwtMjA4ODc0NjYxMl19
 -->
