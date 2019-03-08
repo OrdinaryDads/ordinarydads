@@ -11,12 +11,13 @@ The podcast has been launched! Listen below
 <img src=“/.images/Spotify.png” style="width:100px;height:100px;border:0;">
 </a>
 
-<iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" nbstyle="width: 100%; height: 200px"></iframe>
+<iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" Ng style="width: 100%; height: 200px"></iframe>
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY3MTY0MzIsLTM2NDAyNTg0NCwxND
-kxNDA2ODkyLDExMzAyMTgxMTYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTc3MDA4OTM1OSwtMTYwNjcxNjQzMiwtMz
+Y0MDI1ODQ0LDE0OTE0MDY4OTIsMTEzMDIxODExNiwtMjA4ODc0
+NjYxMl19
 -->
