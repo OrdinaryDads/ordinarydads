@@ -2,6 +2,7 @@
 layout: single
 title: "Episode 2 Show Plan"
 date: 2019-03-11
+categories: podplanning
 ---
 
 Show agenda:
@@ -16,13 +17,14 @@ Show agenda:
 **Dan’s thoughts**
 
 * Most people don’t need one, phone is usually enough
-* What do I have 
+* What do I have and what do I use it for?
+* What did I think I would use it for?
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIzODU1NzgsLTE0MjkzNTA1NjIsOD
-AyMDcxODU3LDEwODE2NDAwMTZdfQ==
+eyJoaXN0b3J5IjpbLTc2Mjk4ODEyMSwtMTQyOTM1MDU2Miw4MD
+IwNzE4NTcsMTA4MTY0MDAxNl19
 -->
