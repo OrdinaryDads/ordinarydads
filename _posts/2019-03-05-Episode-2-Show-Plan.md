@@ -2,7 +2,7 @@
 layout: single
 title: "Episode 2 Show Plan"
 date: 2019-03-05
-categories: podcast
+categories: podplanning
 ---
 
 Welcome to the Ordinary Dads podcast.
@@ -17,3 +17,6 @@ Starting school, and this particular article. Maybe... Michael to prompt Dan on 
 * Friends?
 * Highlights?
 * How have we coped as parents?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE0MzM2MDk0OV19
+-->
