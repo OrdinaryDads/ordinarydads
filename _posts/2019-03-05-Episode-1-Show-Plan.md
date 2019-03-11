@@ -2,7 +2,7 @@
 layout: single
 title: "Episode 1 show plan re-do"
 date: 2019-03-05
-categories: podcast
+categories: podplanning
 ---
 
 Welcome to the Ordinary Dads podcast.
@@ -47,3 +47,6 @@ What to think of:
 * Hit the point, then talk beyond.
 * Unlock the stories
 * Accuracy
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNDIyNzAzMDhdfQ==
+-->
