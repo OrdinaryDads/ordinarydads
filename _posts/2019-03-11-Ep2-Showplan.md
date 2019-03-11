@@ -12,6 +12,12 @@ Show agenda:
 3. short segment - not decided. Something Michael has been up to?
 4. Smartwatches - worth it or not?
     
+
+## BBQ
+
+
+
+
 ## Smartwatch chat
 
 **Dan’s thoughts**
@@ -40,6 +46,6 @@ Show agenda:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODE0Mzg2OSwtMTQyOTM1MDU2Miw4MD
-IwNzE4NTcsMTA4MTY0MDAxNl19
+eyJoaXN0b3J5IjpbMTkzMjQzOTAxNCwtNDE4MTQzODY5LC0xND
+I5MzUwNTYyLDgwMjA3MTg1NywxMDgxNjQwMDE2XX0=
 -->
