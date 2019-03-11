@@ -11,13 +11,17 @@ Show agenda:
 3. short segment
 4. Smartwatches - worth it or not?
     
+## Smartwatch chat
 
+Dan’s thoughts
+
+*
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjA5NTAwLDgwMjA3MTg1NywxMDgxNj
+eyJoaXN0b3J5IjpbMzMyODY3NzExLDgwMjA3MTg1NywxMDgxNj
 QwMDE2XX0=
 -->
