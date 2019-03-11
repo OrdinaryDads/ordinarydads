@@ -30,13 +30,16 @@ Show agenda:
 	* I had a pebble watch previously which I really liked. Sleep tracking was the key part of that then
 * Why is sleep tracking important?
 	* For some background, for about most of the past 5 years my kids have woken up atleast once during the night about 90% of the time.
-	* Sleep tracking was both good (and bad) at showing me how little sleep I was getting, or how dis
+	* Sleep tracking was both good (and bad) at showing me how little sleep I was getting, or how disrupted my sleep was. 
+	* Despite the info, I really liked knowing how good or bad this was
+
+
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjQ3NjQ4MCwtMTQyOTM1MDU2Miw4MD
+eyJoaXN0b3J5IjpbLTQxODE0Mzg2OSwtMTQyOTM1MDU2Miw4MD
 IwNzE4NTcsMTA4MTY0MDAxNl19
 -->
