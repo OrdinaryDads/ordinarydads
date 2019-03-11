@@ -21,9 +21,13 @@ Show agenda:
 	* Apple Watch Series 2
 	* tracking my running due to GPS and HR monitor
 	* sleep tracking
+	* setting Siri reminders
+	* distracting my kids
+	* Using it to timebox stuff for my kids, like bedtime and pre-bedtime. “Hey Siri, set a timer for 5 mins” when I say I’m switching off the light in 5 mins
 * What did I think I would use it for?
 	* honestly i don’t know
 	* i think i just wanted to shiny new tech
+	* I had a pebble watch previously which I really liked. Sleep tracking was the key part
 * 
 
 
@@ -31,6 +35,6 @@ Show agenda:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDc3NTk2MiwtMTQyOTM1MDU2Miw4MD
-IwNzE4NTcsMTA4MTY0MDAxNl19
+eyJoaXN0b3J5IjpbLTE0ODQyMzk4MjAsLTE0MjkzNTA1NjIsOD
+AyMDcxODU3LDEwODE2NDAwMTZdfQ==
 -->
