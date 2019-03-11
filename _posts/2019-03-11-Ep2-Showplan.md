@@ -16,13 +16,13 @@ Show agenda:
 **Dan’s thoughts**
 
 * Most people don’t need one, phone is usually enough
-* 
+* What do I have 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkzNTA1NjIsODAyMDcxODU3LDEwOD
-E2NDAwMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDIzODU1NzgsLTE0MjkzNTA1NjIsOD
+AyMDcxODU3LDEwODE2NDAwMTZdfQ==
 -->
