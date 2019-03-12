@@ -18,6 +18,8 @@ Show agenda:
 What we cooked on the weekend
 * Michael’s attempts + experience
 * Dan’s cook + experience
+* Equipment
+* Method
 
 Don’t need to go into too much depth this episode, unless it is full topic
 
@@ -50,7 +52,7 @@ Don’t need to go into too much depth this episode, unless it is full topic
 
 > Written with [StackEdit](https://stackedit.io/).#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODc5NTU2NCwxOTMyNDM5MDE0LC00MT
+eyJoaXN0b3J5IjpbLTQ0ODMwMjE3OSwxOTMyNDM5MDE0LC00MT
 gxNDM4NjksLTE0MjkzNTA1NjIsODAyMDcxODU3LDEwODE2NDAw
 MTZdfQ==
 -->
