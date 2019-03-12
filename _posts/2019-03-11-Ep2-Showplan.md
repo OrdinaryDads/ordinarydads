@@ -44,13 +44,13 @@ Don’t need to go into too much depth this episode, unless it is full topic
 	* Despite the info, I really liked knowing how good or bad this was
 
 
+##
 
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
+> Written with [StackEdit](https://stackedit.io/).#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjA3MDc4MSwxOTMyNDM5MDE0LC00MT
+eyJoaXN0b3J5IjpbLTU2ODc5NTU2NCwxOTMyNDM5MDE0LC00MT
 gxNDM4NjksLTE0MjkzNTA1NjIsODAyMDcxODU3LDEwODE2NDAw
 MTZdfQ==
 -->
