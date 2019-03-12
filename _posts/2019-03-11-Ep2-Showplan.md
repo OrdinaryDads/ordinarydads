@@ -15,7 +15,11 @@ Show agenda:
 
 ## BBQ
 
+What we cooked on the weekend
+* Michael’s attempts + experience
+* Dan’s cook + experience
 
+Don’t need to go into too much depth this episode, unless it is full topic
 
 
 ## Smartwatch chat
@@ -46,6 +50,7 @@ Show agenda:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjQzOTAxNCwtNDE4MTQzODY5LC0xND
-I5MzUwNTYyLDgwMjA3MTg1NywxMDgxNjQwMDE2XX0=
+eyJoaXN0b3J5IjpbMTI0MjA3MDc4MSwxOTMyNDM5MDE0LC00MT
+gxNDM4NjksLTE0MjkzNTA1NjIsODAyMDcxODU3LDEwODE2NDAw
+MTZdfQ==
 -->
