@@ -12,7 +12,7 @@ The podcast has been launched! Listen below
 <img src=“Https://ordinarydads.githiub.io/Images/Spotify.png”>
 </a>
 
-[image] (https://ordinarydads.github.io/Images/Spotify.png)
+![image](https://ordinarydads.github.io/Images/Spotify.png)
 
 ![Test]({{site.baseurl}}/_posts/086B0EF2-90D7-4320-AFD2-91868F725612.png)
 
@@ -23,7 +23,7 @@ The podcast has been launched! Listen below
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYxODgyMSw0ODM1NjU0MTMsMTk2Nj
+eyJoaXN0b3J5IjpbMTUwMDU4ODA4NCw0ODM1NjU0MTMsMTk2Nj
 k0MzMwNCwtMzg4ODA4OTA5LDE2MTk0NTk0MjIsMTkyNDE1NDc1
 MF19
 -->
