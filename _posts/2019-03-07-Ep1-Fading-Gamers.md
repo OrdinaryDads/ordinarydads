@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "Episode 1 - Fading Gamers"
-date: 2019-03-07
+title: Episode 1 - Fading Gamers
+date: {}
 categories: podcast
+published: true
 ---
 
 The podcast has been launched! Listen below
@@ -12,6 +13,8 @@ The podcast has been launched! Listen below
 </a>
 
 ! [image] (https://ordinarydads.github.io/Images/Spotify.png)
+
+![Test]({{site.baseurl}}/_posts/086B0EF2-90D7-4320-AFD2-91868F725612.png)
 
 
 <iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" Ng style="width: 100%; height: 200px"></iframe>
