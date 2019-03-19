@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Episode 1 - Fading Gamers
-date: 
+date: 2019-03-07
 categories: podcast
 published: true
 ---
@@ -23,6 +23,7 @@ The podcast has been launched! Listen below
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNTY1NDEzLDE5NjY5NDMzMDQsLTM4OD
-gwODkwOSwxNjE5NDU5NDIyLDE5MjQxNTQ3NTBdfQ==
+eyJoaXN0b3J5IjpbLTIwODYxODgyMSw0ODM1NjU0MTMsMTk2Nj
+k0MzMwNCwtMzg4ODA4OTA5LDE2MTk0NTk0MjIsMTkyNDE1NDc1
+MF19
 -->
