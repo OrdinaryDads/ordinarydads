@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Episode 1 - Fading Gamers
-date: {}
+date: 
 categories: podcast
 published: true
 ---
@@ -12,7 +12,7 @@ The podcast has been launched! Listen below
 <img src=“Https://ordinarydads.githiub.io/Images/Spotify.png”>
 </a>
 
-! [image] (https://ordinarydads.github.io/Images/Spotify.png)
+[image] (https://ordinarydads.github.io/Images/Spotify.png)
 
 ![Test]({{site.baseurl}}/_posts/086B0EF2-90D7-4320-AFD2-91868F725612.png)
 
@@ -23,6 +23,6 @@ The podcast has been launched! Listen below
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Njk0MzMwNCwtMzg4ODA4OTA5LDE2MT
-k0NTk0MjIsMTkyNDE1NDc1MF19
+eyJoaXN0b3J5IjpbNDgzNTY1NDEzLDE5NjY5NDMzMDQsLTM4OD
+gwODkwOSwxNjE5NDU5NDIyLDE5MjQxNTQ3NTBdfQ==
 -->
