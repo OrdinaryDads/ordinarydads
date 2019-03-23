@@ -12,7 +12,7 @@ The podcast has been launched! Listen below
 <img src=“Https://ordinarydads.githiub.io/images/Spotify.png”>
 </a>
 
-![image](/images/Spotify.png?raw=true)
+![image](_posts/images/Spotify.png?raw=true)
 
 ![Open the show in Spotify]({{site.baseurl}}/_posts/086B0EF2-90D7-4320-AFD2-91868F725612.png)(https://open.spotify.com/show/5u6qyze0Uh3gIfsuNpjJTj)
 
