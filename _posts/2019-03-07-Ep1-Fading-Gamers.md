@@ -15,11 +15,12 @@ The podcast has been launched! Listen below
 <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
 <img src="/assets/images/Spotify.png"></a>
 
-<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
-<img src=“/assets/images/Spotify.png” alt="SpotifyURL"></a>
 
-<img src="/assets/images/Spotify.png" style="width:165px; height:40px" alt="Spotifyitemprop" itemprop="image">
+<a href="https://itunes.apple.com/au/podcast/ordinary-dads/id1455441874">
+<img src="/assets/images/ApplePod.png"></a>
 
+
+<!--
 <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
 <img src="/assets/images/Spotify.png" alt="Spotify"></a>
 
@@ -28,7 +29,7 @@ The podcast has been launched! Listen below
 ![image](_posts/images/Spotify.png?raw=true)
 
 ![Open the show in Spotify]({{site.baseurl}}/_posts/086B0EF2-90D7-4320-AFD2-91868F725612.png)(https://open.spotify.com/show/5u6qyze0Uh3gIfsuNpjJTj)
-
+-->
 
 <iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" Ng style="width: 100%; height: 200px"></iframe>
 
