@@ -2,7 +2,7 @@
 layout: single
 title: "Episode 1 show plan re-do"
 date: 2019-03-05
-categories: podplanning
+categories: 
 ---
 
 Welcome to the Ordinary Dads podcast.
