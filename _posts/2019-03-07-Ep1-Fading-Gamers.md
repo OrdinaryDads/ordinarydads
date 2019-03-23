@@ -16,9 +16,11 @@ The podcast has been launched! Listen below
 <img src=“../images/Spotify.jpg”>
 </a>
 
-<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
+<!--<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
 <img src=“Https://ordinarydads.github.io/_posts/images/Spotify.png" style="width:165px; height:40px">
-</a>
+</a>-->
+
+<img src="/assets/images/Dan%20Avatar%201.jpg" alt="Dan Lim" itemprop="image">
 
 ![image](_posts/images/Spotify.png?raw=true)
 
