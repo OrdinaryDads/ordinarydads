@@ -21,6 +21,8 @@ The podcast has been launched! Listen below
 <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
 <img src=“/assets/images/Spotify.png” alt="SpotifyURL" itemprop="image"></a>
 
+<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj"><img src=“/assets/images/Spotify.png” alt="SpotifyURL" itemprop="image"></a>
+
 <img src="/assets/images/Spotify.png" style="width:165px; height:40px" alt="Spotifyitemprop" itemprop="image">
 
 <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
