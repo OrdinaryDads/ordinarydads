@@ -12,13 +12,20 @@ The podcast has been launched! Listen below
 <img src=“Https://ordinarydads.github.io/_posts/images/Spotify.png" style="width:165px; height:40px">
 </a>-->
 
-<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
-<img src="/assets/images/Spotify.png"></a>
-
-
 <a href="https://itunes.apple.com/au/podcast/ordinary-dads/id1455441874">
 <img src="/assets/images/ApplePod.jpg"></a>
 
+<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
+<img src="/assets/images/Spotify.png"></a>
+
+<div class="column">
+  <a href="https://itunes.apple.com/au/podcast/ordinary-dads/id1455441874">
+  <img src="/assets/images/ApplePod.jpg"></a>
+</div>
+<div class="column">
+  <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
+  <img src="/assets/images/Spotify.png"></a>
+</div
 
 <!--
 <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
@@ -40,3 +47,14 @@ eyJoaXN0b3J5IjpbLTcwNDA2MDUyNSwyNzQ0NjA5NTcsNDgzNT
 Y1NDEzLDE5NjY5NDMzMDQsLTM4ODgwODkwOSwxNjE5NDU5NDIy
 LDE5MjQxNTQ3NTBdfQ==
 -->
+<!--<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>-->
