@@ -2,7 +2,7 @@
 layout: single
 title: "Episode 2 Show Plan"
 date: 2019-03-11
-categories: podplanning
+categories: 
 ---
 
 Show agenda:
@@ -11,7 +11,7 @@ Show agenda:
 2. BBQ chat
 3. short segment - not decided. Something Michael has been up to?
 4. Smartwatches - worth it or not?
-    
+
 
 ## BBQ
 
@@ -42,7 +42,7 @@ Don’t need to go into too much depth this episode, unless it is full topic
 	* I had a pebble watch previously which I really liked. Sleep tracking was the key part of that then
 * Why is sleep tracking important?
 	* For some background, for about most of the past 5 years my kids have woken up atleast once during the night about 90% of the time.
-	* Sleep tracking was both good (and bad) at showing me how little sleep I was getting, or how disrupted my sleep was. 
+	* Sleep tracking was both good (and bad) at showing me how little sleep I was getting, or how disrupted my sleep was.
 	* Despite the info, I really liked knowing how good or bad this was
 
 
