@@ -17,7 +17,7 @@ The podcast has been launched! Listen below
 
 
 <a href="https://itunes.apple.com/au/podcast/ordinary-dads/id1455441874">
-<img src="/assets/images/ApplePod.png"></a>
+<img src="/assets/images/ApplePod.jpg"></a>
 
 
 <!--
