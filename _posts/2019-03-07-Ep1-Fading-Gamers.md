@@ -35,8 +35,6 @@ The podcast has been launched! Listen below
 
 <!--![image](https://ordinarydads.github.io/_posts/Images/Spotify.png?raw=true)-->
 
-<a href="../html-link.htm"><img src="flower.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
-
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTcwNDA2MDUyNSwyNzQ0NjA5NTcsNDgzNT
 Y1NDEzLDE5NjY5NDMzMDQsLTM4ODgwODkwOSwxNjE5NDU5NDIy
