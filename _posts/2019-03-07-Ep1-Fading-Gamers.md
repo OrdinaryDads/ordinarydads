@@ -18,14 +18,27 @@ The podcast has been launched! Listen below
 <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
 <img src="/assets/images/Spotify.png"></a>
 
-<div class="column">
-  <a href="https://itunes.apple.com/au/podcast/ordinary-dads/id1455441874">
-  <img src="/assets/images/ApplePod.jpg"></a>
+<div class="row">
+  <div class="column">
+    <a href="https://itunes.apple.com/au/podcast/ordinary-dads/id1455441874">
+    <img src="/assets/images/ApplePod.jpg"></a>
+  </div>
+  <div class="column">
+    <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
+    <img src="/assets/images/Spotify.png"></a>
+  </div>
 </div>
-<div class="column">
-  <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
-  <img src="/assets/images/Spotify.png"></a>
-</div
+
+
+  <div class="column">
+    <a href="https://itunes.apple.com/au/podcast/ordinary-dads/id1455441874">
+    <img src="/assets/images/ApplePod.jpg"></a>
+  </div>
+  <div class="column">
+    <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
+    <img src="/assets/images/Spotify.png"></a>
+  </div>
+
 
 <!--
 <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
