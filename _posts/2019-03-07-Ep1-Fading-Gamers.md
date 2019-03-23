@@ -16,7 +16,9 @@ The podcast has been launched! Listen below
 <img src=“../images/Spotify.jpg”>
 </a>
 
-
+<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
+<img src=“Https://ordinarydads.github.io/images/Spotify.png”>
+</a>
 
 ![image](_posts/images/Spotify.png?raw=true)
 
