@@ -11,7 +11,7 @@ This is our first Episode
 
 "What's Ordinary Dad's?"
 
-I like to think of it as a well-planned ramble on parenting, tech gear, news and wondering why kids do the weird stuff they do... all from the perspective of fathers.... so like, ordinary dads like you and me.
+I like to think of it as a A mostly planned out discussion on technology, trends, raising kids and family life through the lens of fatherhood. Not just perfect fatherhood.  So like, ordinary dads like you and me.
 
 So who are we?
 
@@ -29,7 +29,9 @@ Phone discussion
 
 Because phone and mobile devices are a big topic for a lot of people and it sort of defines us as people.  Let's chat a bit about our device history so you can get a sense of where we are coming from.
 
-I've been messing around with smartphones since the mid 2000s... and this will show how much of a nerd i am... I had a Sony Ericsson P900, a hybrid palm pilot style phone thing. Fast forward to when proper smartphones came out, I had a Blackberry Bold around the time that the first iPhone came out. When the iphone 4 came out I went for it as it looked awesome... but after a couple of years I was getting bored of iOS and was excited to switch to a Samsung Galaxy S3. After a bad experience losing all of my photos and videos on my phone from a trip to Switzerland due to the phone dying, I changed to a HTC One, then Sony Xperia Z2....
+I've been messing around with smartphones since the mid 2000s... and this will show how much of a nerd i am... I had a Sony Ericsson P900, a hybrid palm pilot style phone thing with a keyboard. Fast forward to when proper smartphones came out, I had a Blackberry Bold around the time that the first iPhone came out. Keyboards for me were a thing.
+
+When the iphone 4 came out I went for it as it looked awesome... but after a couple of years I was getting bored of iOS and was excited to switch to a Samsung Galaxy S3. After a bad experience losing all of my photos and videos on my phone from a trip to Switzerland due to the phone dying, I changed to a HTC One, then Sony Xperia Z2....
 
 I came back to iPhone with the iPhone 6, mainly because I had my first son and my wife was always annoyed at how slow it was for my Android phones to open up the camera...
 
