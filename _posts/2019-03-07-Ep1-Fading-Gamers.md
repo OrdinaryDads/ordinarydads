@@ -24,7 +24,7 @@ The podcast has been launched! Listen below
 <img src=“/assets/images/Spotify.png” alt="SpotifyURL" itemprop="image">
 </a>
 
-<img src="/assets/images/Spotify.png" alt="Spotifyitemprop" itemprop="image">
+<img src="/assets/images/Spotify.png" style="width:165px; height:40px" alt="Spotifyitemprop" itemprop="image">
 
 <img src="/assets/images/Spotify.png" alt="Spotify">
 
