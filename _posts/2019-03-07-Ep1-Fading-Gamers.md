@@ -17,7 +17,7 @@ The podcast has been launched! Listen below
 </a>
 
 <a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
-<img src=“Https://ordinarydads.github.io/images/Spotify.png”>
+<img src=“Https://ordinarydads.github.io/_posts/images/Spotify.png" style="width:165px; height:40px">
 </a>
 
 ![image](_posts/images/Spotify.png?raw=true)
@@ -27,7 +27,7 @@ The podcast has been launched! Listen below
 
 <iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" Ng style="width: 100%; height: 200px"></iframe>
 
-<!--![image](https://ordinarydads.github.io/_posts/Images/Spotify.png?raw=true)style="width:82px; height:86px"-->
+<!--![image](https://ordinarydads.github.io/_posts/Images/Spotify.png?raw=true)-->
 
 <a href="../html-link.htm"><img src="flower.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
 
