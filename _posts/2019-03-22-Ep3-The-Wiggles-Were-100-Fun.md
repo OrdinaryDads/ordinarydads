@@ -1,16 +1,23 @@
 ---
 layout: single
-title: Episode 1 - Fading Gamers
-date: 2019-03-07
+title: Episode 3 - The Wiggles Were 100 fun!
+date: 2019-03-23
 categories: podcast
 published: true
 ---
 
-The podcast has been launched!
+Hosted by Dan and Mike. This week we have our first guests!
 
-Welcome to the Ordinary Dads podcast. A podcast which looks at technology, trends, raising kids and family life through the lens of ordinary fatherhood.
+On the show:
 
-Dan and Mike introduce themselves and the way they look at tech. They also discuss smartphones they've used over the years and today's smartphone vs traditional camera photography trends.
+1. Wiggles in concert: Dan's experience
+2. Guest interview: Dan's son
+3. Wiggles concert: Mike's experience
+4. Guest interview: Mike's son
+5. Kid's entertainment - Good or bad for them?
+6. BBQ chat - Smoking whole chicken and ribs
+7. How to rescue BBQ meat that goes wrong
+8. A special musical performance
 
 Listen below or wherever you get your podcasts.
 
@@ -24,7 +31,7 @@ Listen below or wherever you get your podcasts.
 <img src="/assets/images/google_podcasts164.png"></a>
 
 
-<iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" Ng style="width: 100%; height: 200px"></iframe>
+<iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/348474?visual=true&sharing=true" frameborder="0" style="width: 100%; height: 200px"></iframe>
 
 
 
