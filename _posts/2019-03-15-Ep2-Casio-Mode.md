@@ -22,7 +22,7 @@ Listen below or wherever you get your podcasts.
 <img src="/assets/images/Spotify.png"></a>
 
 <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3Mud2hvb3Noa2FhLmNvbS9yc3MvcG9kY2FzdC9pZC82MjMz">
-<img src="/assets/images/google_podcasts_badge.png"></a>
+<img src="/assets/images/google_podcasts134.png"></a>
 
 
 <iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/344925?visual=true&sharing=true" frameborder="0" style="width: 100%; height: 200px"></iframe>
