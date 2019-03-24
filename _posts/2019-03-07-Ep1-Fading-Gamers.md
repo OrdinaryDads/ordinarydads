@@ -6,11 +6,13 @@ categories: podcast
 published: true
 ---
 
-The podcast has been launched! Listen below
+The podcast has been launched!
 
-<!--<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
-<img src=“Https://ordinarydads.github.io/_posts/images/Spotify.png" style="width:165px; height:40px">
-</a>-->
+Welcome to the Ordinary Dads podcast. A podcast which looks at technology, trends, raising kids and family life through the lens of ordinary fatherhood.
+
+Dan and Mike introduce themselves and the way they look at tech. They also discuss smartphones they've used over the years and today's smartphone vs traditional camera photography trends.
+
+Listen below or wherever you get your podcasts.
 
 <a href="https://itunes.apple.com/au/podcast/ordinary-dads/id1455441874">
 <img src="/assets/images/ApplePod.jpg"></a>
@@ -22,34 +24,12 @@ The podcast has been launched! Listen below
 <img src="/assets/images/google_podcasts_badge.png"></a>
 
 
-<!--
-<a href="https://open.spotify.com/show/5u6qyzeOUh3gIfsuNpjJTj">
-<img src="/assets/images/Spotify.png" alt="Spotify"></a>
-
-<img src="/assets/images/Dan%20Avatar%201.jpg" alt="Dan Lim" itemprop="image">
-
-![image](_posts/images/Spotify.png?raw=true)
-
-![Open the show in Spotify]({{site.baseurl}}/_posts/086B0EF2-90D7-4320-AFD2-91868F725612.png)(https://open.spotify.com/show/5u6qyze0Uh3gIfsuNpjJTj)
--->
-
 <iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/341112?visual=true&sharing=true" frameborder="0" Ng style="width: 100%; height: 200px"></iframe>
 
-<!--![image](https://ordinarydads.github.io/_posts/Images/Spotify.png?raw=true)-->
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTcwNDA2MDUyNSwyNzQ0NjA5NTcsNDgzNT
 Y1NDEzLDE5NjY5NDMzMDQsLTM4ODgwODkwOSwxNjE5NDU5NDIy
 LDE5MjQxNTQ3NTBdfQ==
 -->
-<!--<div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>-->
