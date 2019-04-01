@@ -29,12 +29,7 @@ Listen below or wherever you get your podcasts.
 <img src="/assets/images/google_podcasts164.png"></a>
 
 
-<div
-  class="whooshkaa-widget-player"
-  data-episode-id="352112"
-  data-theme="light"
-  data-height="190"></div>
-<script src="https://webplayer.whooshkaa.com/js/widget/loader.umd.min.js"></script>
+<iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/352112?visual=true&sharing=true" frameborder="0" style="width: 100%; height: 200px"></iframe>
 
 
 
