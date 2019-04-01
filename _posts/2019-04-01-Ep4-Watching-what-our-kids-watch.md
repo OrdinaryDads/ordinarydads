@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Episode 4 - Watch What Our Kids Watch
+title: Episode 4 - Watching What Our Kids Watch on YouTube
 date: 2019-04-01
 categories: podcast
 published: true
