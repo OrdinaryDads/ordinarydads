@@ -18,10 +18,10 @@ On the show:
 
 Mentions:
 
-[Head 2 Toe Family Health] (https://www.h2tfamilyhealth.com.au/) clinics
+<a href="https://www.h2tfamilyhealth.com.au/">Head 2 Toe Family Health clinics</a>
 From the website: Head 2 Toe Kids & Family Health is an innovative, multidisciplinary allied health practice integrating assessment and therapy for children with developmental, learning and behavioural difficulties in the one convenient location.
 
-[Old Tarcutta Big Red Bus] (https://www.airbnb.com.au/rooms/22819625)
+<a href="https://www.airbnb.com.au/rooms/22819625">Old Tarcutta Big Red Bus</a>
 Airbnb accommodation created out of an old bus. Great as a stopover for long road trips between Sydney and Melbourne.
 
 Listen below or wherever you get your podcasts.
