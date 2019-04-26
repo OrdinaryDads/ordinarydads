@@ -30,11 +30,3 @@ Listen below or wherever you get your podcasts.
 
 
 <iframe width="100%" height="200" src="https://player.whooshkaa.com/player/episode/id/352112?visual=true&sharing=true" frameborder="0" style="width: 100%; height: 200px"></iframe>
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDA2MDUyNSwyNzQ0NjA5NTcsNDgzNT
-Y1NDEzLDE5NjY5NDMzMDQsLTM4ODgwODkwOSwxNjE5NDU5NDIy
-LDE5MjQxNTQ3NTBdfQ==
--->
