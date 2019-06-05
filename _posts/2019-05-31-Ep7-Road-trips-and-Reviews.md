@@ -6,7 +6,7 @@ categories: podcast
 published: true
 ---
 
-WE'RE BACK! After a lengthy hiatus due to Easter break, work commitments and family stuff, join Mike and Dan as they wax lyrical on road trips with kids, take away restaurant food (after sitting down).
+WE'RE BACK! After a lengthy hiatus due to Easter break, work commitments and family stuff, join Mike and Dan as they wax lyrical on road trips with kids, take away restaurant food (after sitting down) and why Dubbo Zoo is awesome.
 
 It's our longest episode ever!
 
