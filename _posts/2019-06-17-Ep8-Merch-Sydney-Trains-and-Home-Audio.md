@@ -19,9 +19,9 @@ On the show:
 8. Mike got trolled by his mates in his young days
 
 Products mentioned in this podcast:
-Yamaha YAS-108 Soundbar
-Bose Noise Cancelling 700 headphones
-Mike's next headphones: Sony WH-XB900N
+* Yamaha YAS-108 Soundbar
+* Bose Noise Cancelling 700 headphones
+* Mike's next headphones: Sony WH-XB900N
 
 
 Listen below or wherever you get your podcasts.
