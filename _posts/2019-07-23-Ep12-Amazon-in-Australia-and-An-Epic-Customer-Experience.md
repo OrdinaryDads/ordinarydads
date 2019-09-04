@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Episode 12 - Is Amazon Prime worth it in Australia, Portable Projectors and a Epic Customer Service Experience
-date: 2019-07-15
+date: 2019-07-23
 categories: podcast
 published: true
 ---

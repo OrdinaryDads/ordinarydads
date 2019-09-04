@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Episode 13 - Mike's having another kid! Plus snow trips for kids and growing pains.
-date: 2019-07-15
+date: 2019-09-04
 categories: podcast
 published: true
 ---
