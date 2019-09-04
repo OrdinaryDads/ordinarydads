@@ -17,12 +17,10 @@ On the show:
 5. Shopping for stuff in the USA - good and bad experiences
 5. Dan's epic attempt to return a Segway electric scooter to Amazon
 
-
 Products mentioned in this podcast:
 * Anker Nebula 2
 * Anker Nebula Mars II
 * Segway Ninebot Electric Scooter
-
 
 
 Listen below or wherever you get your podcasts.
