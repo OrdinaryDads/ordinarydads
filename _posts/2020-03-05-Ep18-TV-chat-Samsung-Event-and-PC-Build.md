@@ -6,7 +6,7 @@ categories: podcast
 published: true
 ---
 
-A mostly planned out discussion on technology, trends, raising kids and family life through the lens of fatherhood. Hosted by Dan and Mike. This week we are back at it, chatting about recent tech releases and tv/gaming that we grew up with. ALso, if you aren't the type of nerd who likes PC build chat, maybe skip the last segment :D.
+A mostly planned out discussion on technology, trends, raising kids and family life through the lens of fatherhood. Hosted by Dan and Mike. This week we are back at it, chatting about recent tech releases and tv/gaming that we grew up with. Also, if you aren't the type of nerd who likes PC build chat, maybe skip the last segment :D.
 
 
 On the show:
@@ -16,8 +16,8 @@ On the show:
 4. Star Trek Picard and the Mandalorian (16:27)
 5. Samsung Unpacked Event (23:11)
 6. Airpods Pro.... on ANDROID (42:47)
-7. Mike built a PC! (1:09:00)
-8. End (1:13:00)
+7. Mike built a PC! (52:58)
+8. End (1:12:11)
 
 
 
